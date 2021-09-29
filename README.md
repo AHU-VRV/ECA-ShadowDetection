@@ -5,7 +5,7 @@ This repository contains Pytorch code for the paper titled "Robust Shadow Detect
 ### Architecture
 
 Attached below is the architecture diagram as given in the paper.
-![network](img\network.jpg)
+![network](img/network.jpg)
 
 ### Requirements
 
@@ -35,7 +35,7 @@ python test.py
 
 
 ### Results
-![results](img\results.jpg)
+![results](img/results.jpg)
 (Left to right: Input, ground truth, detection result)
 
 More results can be downloaded [here](https://drive.google.com/drive/folders/1OCs8usYDHB2oqNtsZqR5Q8qDXXNjaYWy?usp=sharing).
