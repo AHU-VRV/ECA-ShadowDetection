@@ -1,6 +1,6 @@
 # Robust Shadow Detection by Exploring Effective Shadow Contexts
 
-This repository contains Pytorch code for the paper titled "Robust Shadow Detection by Exploring Effective Shadow Contexts" [here](https://drive.google.com/file/d/1gXgII1DL1XUDhrJYgUeYTbZ_JrXREe6Z/view) by  Xianyong Fang, et al. at ACM Multimedia 2021.
+This repository contains Pytorch code for the paper titled "Robust Shadow Detection by Exploring Effective Shadow Contexts" [Paper](https://drive.google.com/file/d/1gXgII1DL1XUDhrJYgUeYTbZ_JrXREe6Z/view) by  Xianyong Fang, et al. at ACM Multimedia 2021.
 
 ### Architecture
 
@@ -46,4 +46,4 @@ You can download from [here](https://drive.google.com/drive/folders/1uQmR-Gg16kE
 
 ### References
 
-- Xianyong Fang, Xiaohao He, Linbo Wang, Jianbing Shen, Robust Shadow Detection by Exploring Effective Shadow Contexts [here](https://drive.google.com/file/d/1gXgII1DL1XUDhrJYgUeYTbZ_JrXREe6Z/view), ACM Multimedia 2021. 
+- Xianyong Fang, Xiaohao He, Linbo Wang, Jianbing Shen, Robust Shadow Detection by Exploring Effective Shadow Contexts [Paper](https://drive.google.com/file/d/1gXgII1DL1XUDhrJYgUeYTbZ_JrXREe6Z/view), ACM Multimedia 2021. 
