@@ -17,7 +17,7 @@ Attached below is the architecture diagram as given in the paper.
 
 ### Usage
 
-- Set datasets under `./data`. You can search and download the datasets from the Internet.
+- You can search and download the datasets from the Internet.
 - ResNext101 has been adopted，and you can download the ResNet101's settings from [here](https://drive.google.com/drive/folders/1qBivnosrTb1PUnB2i89t27oKmSbmDaqP?usp=sharing)，you can put it in the `./` directory.
 
 ### Training
