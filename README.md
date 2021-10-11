@@ -40,10 +40,6 @@ python test.py
 
 More results can be downloaded [here](https://drive.google.com/drive/folders/1OCs8usYDHB2oqNtsZqR5Q8qDXXNjaYWy?usp=sharing).
 
-## Trained model
-
-You can download from [here](https://drive.google.com/drive/folders/1uQmR-Gg16kEKvf-qFcH0syHOlBJKAQgY?usp=sharing).
-
 ## Citation
 Please cite the following paper if you think this project is useful for your work. Thanks.
 
