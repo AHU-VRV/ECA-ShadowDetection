@@ -43,7 +43,9 @@ More results can be downloaded [here](https://drive.google.com/drive/folders/1OC
 ## Citation
 Please cite the following paper if you think this project is useful for your work. Thanks.
 
-@inproceedings{Fang2021Shadow,
+@inproceedings{
+
+Fang2021Shadow,
 
 author = { Fang, Xianyong and He, Xiaohao and Wang, Linbo and Shen, Jianbing},
 
