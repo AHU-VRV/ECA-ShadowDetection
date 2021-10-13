@@ -1,6 +1,8 @@
 # Robust Shadow Detection by Exploring Effective Shadow Contexts
 
-This repository contains Pytorch code for the paper titled [Robust Shadow Detection by Exploring Effective Shadow Contexts](https://drive.google.com/file/d/1gXgII1DL1XUDhrJYgUeYTbZ_JrXREe6Z/view) by  Xianyong Fang, et al. at ACM Multimedia 2021.
+This repository contains Pytorch code for the paper titled [Robust Shadow Detection by Exploring Effective Shadow Contexts](https://drive.google.com/file/d/1gXgII1DL1XUDhrJYgUeYTbZ_JrXREe6Z/view) at ACM Multimedia 2021.
+
+In this article, we propose a novel end-to-end shadow detection method based on the encoder-decoder structure. Our key contribution is the integration of the regular deep feature with discrimative multi-scale features to fulfil robust shadow augmentation. This integration is obtained by a new module called Effective-Context Augmentation (ECA). 
 
 ## Architecture
 
@@ -42,5 +44,18 @@ More results can be downloaded [here](https://drive.google.com/drive/folders/1OC
 
 ## Citation
 Please cite the following paper if you think this project is useful for your work. Thanks.
+@inproceedings{Fang2021Shadow,
+
+address = {Chengdu, China},
+
+author = { Fang, Xianyong and He, Xiaohao and Wang, Linbo and Shen, Jianbing},
+
+booktitle = {Proceedings of the 29th ACM International Conference on Multimedia - ACM Multimedia 2021},
+
+title = {{Robust Shadow Detection by Exploring Effective Shadow Contexts}},
+
+year = {2021}
+
+}
 
 Xianyong Fang, Xiaohao He, Linbo Wang, Jianbing Shen, [Robust Shadow Detection by Exploring Effective Shadow Contexts](https://drive.google.com/file/d/1gXgII1DL1XUDhrJYgUeYTbZ_JrXREe6Z/view), ACM Multimedia 2021. 
