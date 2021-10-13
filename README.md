@@ -42,15 +42,16 @@ More results can be downloaded [here](https://drive.google.com/drive/folders/1OC
 
 ## Citation
 Please cite the following paper if you think this project is useful for your work. Thanks.
-@inproceedings{Fang2021Shadow,
 
-address = {Chengdu, China},
+@inproceedings{Fang2021Shadow,
 
 author = { Fang, Xianyong and He, Xiaohao and Wang, Linbo and Shen, Jianbing},
 
 booktitle = {Proceedings of the 29th ACM International Conference on Multimedia - ACM Multimedia 2021},
 
 title = {{Robust Shadow Detection by Exploring Effective Shadow Contexts}},
+
+address = {Chengdu, China},
 
 year = {2021}
 
