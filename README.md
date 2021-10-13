@@ -6,7 +6,7 @@ In this article, we propose a novel end-to-end shadow detection method based on 
 
 ## Architecture
 
-Attached below is the architecture diagram as given in the paper.
+Attached below is the architecture diagram as given in the paper. Built on the encoder-decoder structure, it takes ECA as the main building block in the encoder while also adopts the feature from ECA in the deocder to obtain a robust shadow classification.
 ![network](img/pipeline.jpg)
 
 ## Requirements
@@ -34,8 +34,6 @@ python train.py
 python test.py
 ```
 
-
-
 ## Results
 ![results](img/results.jpg)
 (Left to right: Input, ground truth, detection result)
@@ -57,5 +55,3 @@ title = {{Robust Shadow Detection by Exploring Effective Shadow Contexts}},
 year = {2021}
 
 }
-
-Xianyong Fang, Xiaohao He, Linbo Wang, Jianbing Shen, [Robust Shadow Detection by Exploring Effective Shadow Contexts](https://drive.google.com/file/d/1gXgII1DL1XUDhrJYgUeYTbZ_JrXREe6Z/view), ACM Multimedia 2021. 
