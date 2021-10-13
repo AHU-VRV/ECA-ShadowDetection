@@ -6,7 +6,7 @@ In this article, we propose a novel end-to-end shadow detection method based on 
 
 ## Architecture
 
-Attached below is the architecture diagram as given in the paper. Built on the encoder-decoder structure, it takes ECA as the main building block in the encoder while also adopts the feature from ECA in the deocder to obtain a robust shadow classification.
+Attached below is the architecture diagram as given in the paper. Built on the encoder-decoder structure, it takes ECA as the main building block in the encoder while also adopts the features from those ECAs to decode robust shadow classification results.
 ![network](img/pipeline.jpg)
 
 ## Requirements
