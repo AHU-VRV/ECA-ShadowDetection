@@ -45,7 +45,7 @@ Please cite the following paper if you think this project is useful for your wor
 
 @inproceedings{
 
-Fang2021Shadow,
+FangHWS2021Shadow,
 
 author = { Fang, Xianyong and He, Xiaohao and Wang, Linbo and Shen, Jianbing},
 
