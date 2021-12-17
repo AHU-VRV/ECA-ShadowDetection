@@ -40,6 +40,8 @@ python test.py
 
 More results can be downloaded [here](https://drive.google.com/drive/folders/1OCs8usYDHB2oqNtsZqR5Q8qDXXNjaYWy?usp=sharing).
 
+Some pretrained models can be downloaded [here](https://drive.google.com/drive/folders/1oAi74Y-r1rlkKzCGzu4b9qHWivJCLYkC?usp=sharing) for quick program setups.
+
 ## Citation
 Please cite the following paper if you think this project is useful for your work. Thanks.
 
